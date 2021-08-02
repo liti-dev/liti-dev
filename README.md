@@ -3,7 +3,7 @@
 ### Hi there 👋
 🌱 I’m currently learning web development, aiming to become a Fullstack developer to turn all my ideas into real life projects.<br>
 :high_brightness: Fun fact: 
-- I've taken on several roles (consultant, accountant, teacher, and still counting...)
+- I've been through several roles (consultant, accountant, teacher, and still counting...)
 - I believe in :santa: who will give me a Raspberry Pi one day.
 - I don't watch romance. Detectives/ Thrillers are my fav genres.
 <!--
