@@ -1,9 +1,11 @@
+![GitHub Logo](https://i.ibb.co/F6WLz2m/Yellow-Home-Yoga-Facebook-Cover-2.png)
+
 ### Hi there 👋
 🌱 I’m currently learning web development, aiming to become a Fullstack developer to turn all my ideas into real life projects.<br>
-⚡ Fun fact: 
+:high_brightness: Fun fact: 
 - I've taken on several roles (consultant, accountant, teacher, and still counting...)
-- Waiting for :santa: to give me a Raspberry Pi
-- I don't watch romance. Detectives/ Thrillers are my fav genres
+- I believe in :santa: who will give me a Raspberry Pi one day.
+- I don't watch romance. Detectives/ Thrillers are my fav genres.
 <!--
 **liti-dev/liti-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
