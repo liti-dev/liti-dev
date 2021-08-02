@@ -1,4 +1,4 @@
-![GitHub Logo](https://i.ibb.co/F6WLz2m/Yellow-Home-Yoga-Facebook-Cover-2.png)
+![GitHub Logo](https://i.postimg.cc/rmsTC0V1/Yellow-Home-Yoga-Facebook-Cover-2.png)
 
 ### Hi there 👋
 🌱 I’m currently learning web development, aiming to become a Fullstack developer to turn all my ideas into real life projects.<br>
