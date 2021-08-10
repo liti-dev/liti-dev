@@ -1,7 +1,7 @@
 ![GitHub Logo](https://i.postimg.cc/rmsTC0V1/Yellow-Home-Yoga-Facebook-Cover-2.png)
 
 ### Hi there 👋
-🌱 I’m currently learning web development, aiming to become a Fullstack developer to turn all my ideas into real life projects.<br>
+🌱 I’m a Frontend web developer, aiming to become Fullstack to turn all my ideas into real life projects.<br>
 :high_brightness: Fun fact: 
 - I've been through several roles (consultant, accountant, teacher, and still counting...)
 - I believe in :santa: who will give me a Raspberry Pi one day.
