@@ -1,4 +1,4 @@
-![GitHub Logo](https://i.postimg.cc/rmsTC0V1/Yellow-Home-Yoga-Facebook-Cover-2.png)
+![GitHub Logo](https://lh3.googleusercontent.com/drive-viewer/AFGJ81ojuL8eYp1KTha0MRbJ-c-8rbBaqWJGOAn02QpCDwdpg1X3GRWQmlKsJmf6z16dyIdZCkI9aGVPg3BkYJI8qfEwiBnd=s1600)
 
 ### Hi there 👋
 🌱 I’m a Frontend developer, aiming to become Fullstack to turn all my ideas into reality.<br>
