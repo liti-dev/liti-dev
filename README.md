@@ -7,7 +7,7 @@
 ⚡ Technologies I use:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,ts,git,postman,figma,chakraui" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,ts,git,postman, supabase,figma,chakraui" />
   </a>
 </p>
 
