@@ -1,5 +1,3 @@
-![GitHub Logo](https://lh3.googleusercontent.com/drive-viewer/AFGJ81ojuL8eYp1KTha0MRbJ-c-8rbBaqWJGOAn02QpCDwdpg1X3GRWQmlKsJmf6z16dyIdZCkI9aGVPg3BkYJI8qfEwiBnd=s1600)
-
 ### Hi there 👋
 🌱 I’m a Frontend developer, aiming to become Fullstack to turn all my ideas into reality.<br>
 🔭 I'm passionate about education, healthcare, animals and sustainability. Currently working on an E-commerce selling pets related stuffs
