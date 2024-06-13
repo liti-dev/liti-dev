@@ -1,6 +1,6 @@
 ### Hi there 👋
 👩🏻‍💻 I’m a Frontend developer, aiming to become Fullstack to turn all my ideas into reality.<br>
-🔭 I'm passionate about education, healthcare, animals and all things sustainability. 
+🔭 I'm passionate about education, healthcare, animals and all things sustainability.  
 🌿 I'm an introvert at heart but you may find me speaking about Green Software.
 
 ⚡ Technologies I use:
