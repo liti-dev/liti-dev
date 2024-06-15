@@ -21,7 +21,7 @@
 </p>
 
 ## Blog posts
-- [What I've learned after quitting my bootcamp](https://tiacancode.hashnode.dev/what-ive-learned-after-quitting-my-coding-boot-camp)
+- [What I've learned after quitting my bootcamp](https://tiacancode.hashnode.dev/what-ive-learned-after-quitting-my-coding-bootcamp)
 - [Landing a tech job without finishing a bootcamp](https://tiacancode.hashnode.dev/landing-tech-jobs-without-finishing-the-coding-bootcamp-cl13wti2n02t8bynv1m0q7olm?source=more_articles_bottom_blogs)
 
 <!--
