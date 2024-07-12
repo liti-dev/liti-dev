@@ -16,7 +16,7 @@
 ## Technologies I use:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte,git,postman,supabase,figma,cypress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,react,nextjs,vue,svelte,git,postman,supabase,figma,cypress" />
   </a>
 </p>
 
