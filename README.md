@@ -1,11 +1,9 @@
-## Hi there, I'm Thuyet (Tia) 🌻  
+## Hi there, I'm Thuyet (Tia) 🌻 Fullstack engineer 
 <a href="https://x.com/thuyet311">![Static Badge](https://img.shields.io/badge/X(Twitter)-black)</a>
-<a href="https://tia-code.netlify.app/">![Static Badge](https://img.shields.io/badge/Portfolio-purple)</a>
+<a href="https://tia-nguyen.vercel.app/">![Static Badge](https://img.shields.io/badge/Portfolio-purple)</a>
 <a href="https://www.linkedin.com/in/thuyet-ng-03">![Static Badge](https://img.shields.io/badge/Linkedin-blue)</a>
-<a href="https://tiacancode.hashnode.dev/">![Static Badge](https://img.shields.io/badge/Hashnode-2962FF)</a>
 
-👩🏻‍💻 I’m a Frontend Developer, aiming to become Fullstack to turn all my ideas into reality.  
-🔭 I'm passionate about education, healthcare, animals and all things sustainability.  
+🔭 I'm passionate about animal welfare and sustainability, especially carbon reduction.  
 🌿 I'm an introvert at heart but you may find me on stage speaking about Green Software.
 
 ## Fun fact: 
